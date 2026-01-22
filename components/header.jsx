@@ -11,10 +11,10 @@ import { products } from '@/lib/products'
 
 const navLinks = [
   { href: '/', label: 'Home' },
-  { href: '/shop', label: 'Shop' },
-  { href: '/gallery', label: 'Gallery' },
-  { href: '/about', label: 'About' },
-  { href: '/contact', label: 'Contact' },
+  { href: '#', label: 'Shop' },
+  { href: '#', label: 'Gallery' },
+  { href: '#', label: 'About' },
+  { href: '#', label: 'Contact' },
 ]
 
 export function Header() {
