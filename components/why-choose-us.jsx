@@ -54,7 +54,7 @@ export function WhyChooseUs() {
             transition={{ duration: 0.8 }}
             className="relative"
           >
-            <div className="relative w-full h-120 rounded-2xl overflow-hidden">
+            <div className="relative w-full h-80 md:h-120 rounded-2xl overflow-hidden">
               <Image
                 src="https://images.pexels.com/photos/18296426/pexels-photo-18296426.jpeg"
                 alt="Baker at work"
